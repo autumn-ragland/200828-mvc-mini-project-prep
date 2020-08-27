@@ -48,3 +48,10 @@
 	- POST request to add a user to the list of users *this data will not be persisted*
 	- When post request is sent, if user is highlighted display highlighted users with newest user
 	- When post request is sent, if new user is not highlighted display all users with newest user
+
+### Project Resources
+- [Anchor Tag Helpers in ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/anchor-tag-helper?view=aspnetcore-3.1#anchor-tag-helper-attributes)
+- [Passing Data to Views](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/mvc-music-store/mvc-music-store-part-3)
+- [Simple Routing](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing?view=aspnetcore-3.1#set-up-conventional-route)
+- [Using Partial Views](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing?view=aspnetcore-3.1#set-up-conventional-route)
+- [Date Time](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing?view=aspnetcore-3.1#set-up-conventional-route)
