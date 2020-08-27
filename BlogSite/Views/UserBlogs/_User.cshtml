@@ -1,1 +1,25 @@
-<h2>User Partial</h2>
+
+@if(@Model.highlighted)
+{
+<div class="card border-success mb-3" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title"><h3>@Model.fName @Model.LName</h3></h5>
+        <h6 class="card-subtitle mb-2 text-muted"><h4>@Model.userName</h4></h6>
+        <p class="card-text"><p>@Model.bio</p>
+        <p class="card-text"><p># of Blogs : @Model.blogs.Count</p>
+        <a href="#" class="card-link">Card link</a>
+    </div>
+</div>
+} else 
+{
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title"><h3>@Model.fName @Model.LName</h3></h5>
+        <h6 class="card-subtitle mb-2 text-muted"><h4>@Model.userName</h4></h6>
+        <p class="card-text"><p>@Model.bio</p>
+        <p class="card-text"><p># of Blogs : @Model.blogs.Count</p>
+        <a href="#" class="card-link">Card link</a>
+    </div>
+</div>
+}
+
