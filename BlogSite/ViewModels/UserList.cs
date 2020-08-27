@@ -7,6 +7,7 @@ namespace BlogSite.ViewModels
     public class UserList
     {
         public List<User> mockUsers = new List<User> ();
+        // populate mock data when instanciated
         public UserList()
         {
             this.mockUsers.Add(new User("User", "One", "user1", "This is User One!", new List<Blog>(){new Blog("My First Blog Post", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.")}, true, 1));
