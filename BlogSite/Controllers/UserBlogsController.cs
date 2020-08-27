@@ -32,13 +32,14 @@ namespace BlogSite.Controllers
 
             return View("DisplayUsers", userList);
         }
-        public IActionResult UserDetails()
+        public IActionResult Blogs(int userID)
         {
-            return View();
+            User matchingUser = userList.mockUsers.FirstOrDefault(user => user.userID == userID);
+            return View(matchingUser);
         }
-        public IActionResult BlogDetails()
+        public IActionResult AddBlog(int userID)
         {
-            return View();
+            return Content($"Add blog to user {userID}");
         }
     }
 }

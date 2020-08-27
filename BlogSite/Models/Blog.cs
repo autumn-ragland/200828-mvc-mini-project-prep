@@ -5,7 +5,7 @@ namespace BlogSite.Models
     public class Blog
     {
         public string title;
-        private DateTime datePublished = new DateTime();
+        public DateTime datePublished = new DateTime();
         public string body;
         public Blog(string title, string body)
         {

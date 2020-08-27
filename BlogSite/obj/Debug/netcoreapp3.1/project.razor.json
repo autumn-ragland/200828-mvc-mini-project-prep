@@ -14452,13 +14452,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\200828-mvc-mini-project-prep\\BlogSite\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\200828-mvc-mini-project-prep\\BlogSite\\Views\\UserBlogs\\Blogs.cshtml",
+      "TargetPath": "Views\\UserBlogs\\Blogs.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\200828-mvc-mini-project-prep\\BlogSite\\Views\\UserBlogs\\BlogDetails.cshtml",
-      "TargetPath": "Views\\UserBlogs\\BlogDetails.cshtml",
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\prep\\200828-mvc-mini-project-prep\\BlogSite\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
