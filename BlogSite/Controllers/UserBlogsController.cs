@@ -29,7 +29,7 @@ namespace BlogSite.Controllers
             // filter highlighted users from list of mock users
             List<User> filterHighlighted = userList.mockUsers.Where(user => user.highlighted == true).ToList();
             userList.mockUsers = filterHighlighted;
-            
+
             return View("DisplayUsers", userList);
         }
         public IActionResult UserDetails()
