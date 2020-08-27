@@ -39,3 +39,6 @@ C:\Users\student\Code_School\cohort5\sprint_three\dotnet\prep\200828-mvc-mini-pr
 C:\Users\student\Code_School\cohort5\sprint_three\dotnet\prep\200828-mvc-mini-project-prep\BlogSite\obj\Debug\netcoreapp3.1\Razor\Views\UserBlogs\DisplayUsers.cshtml.g.cs
 C:\Users\student\Code_School\cohort5\sprint_three\dotnet\prep\200828-mvc-mini-project-prep\BlogSite\obj\Debug\netcoreapp3.1\Razor\Views\UserBlogs\BlogDetails.cshtml.g.cs
 C:\Users\student\Code_School\cohort5\sprint_three\dotnet\prep\200828-mvc-mini-project-prep\BlogSite\obj\Debug\netcoreapp3.1\Razor\Views\UserBlogs\UserDetails.cshtml.g.cs
+C:\Users\student\Code_School\cohort5\sprint_three\dotnet\prep\200828-mvc-mini-project-prep\BlogSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\student\Code_School\cohort5\sprint_three\dotnet\prep\200828-mvc-mini-project-prep\BlogSite\obj\Debug\netcoreapp3.1\Razor\Views\UserBlogs\_Blog.cshtml.g.cs
+C:\Users\student\Code_School\cohort5\sprint_three\dotnet\prep\200828-mvc-mini-project-prep\BlogSite\obj\Debug\netcoreapp3.1\Razor\Views\UserBlogs\_User.cshtml.g.cs
